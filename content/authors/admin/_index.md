@@ -175,13 +175,12 @@ skills:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## <font size='+1' >About Me</font>
+## <font size='+3' >About Me</font>
 
 👋 Hi, there! I'm **Lei**, holding a Ph.D. in computational chemistry, specializing in data analystics, Molecular dynamics (MD) and quantum mechanics (QM) calculations. 
 
 I`m also a motivated data, interested in applying machine intelligence to tackle challenging problems and improve decision-making in industry. Lei is passionate about applying her background in chemical engineering and her data science skills to develop innovative techniques that address climate change, material design, and sustainable energy development.
-
 {style="font-size: 1.2rem; 
-background: #FFB76B; 
+background: #16151a; 
 background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; 
 -webkit-text-fill-color: transparent;"}
