@@ -183,4 +183,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+👋 Hi, there! I'm **Lei**, a motivated data scientist and Ph.D. researcher in computational chemistry. She is interested in applying machine intelligence to tackle challenging problems and improve decision-making in industry. Lei is also passionate about applying her background in chemical engineering and her data science skills to develop innovative techniques that address climate change, material design, and sustainable energy development.
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
