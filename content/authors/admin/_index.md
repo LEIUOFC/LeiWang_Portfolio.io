@@ -37,9 +37,9 @@ profiles:
     url: https://github.com/LEIUOFC
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/leiwang2023
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/cv.pdf
 interests:
   - Artificial Intelligence
   - Computational Linguistics
