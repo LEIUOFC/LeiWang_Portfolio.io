@@ -54,6 +54,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: towardDataScience
     content:
       title: Recent Publications
       text: ""
