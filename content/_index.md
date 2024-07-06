@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: showcase
       columns: 1
   - block: collection
     id: towards_data_science
