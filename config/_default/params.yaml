@@ -3,10 +3,11 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+#following options in config/_default/params.yaml can be set to personalise the appearance of your site:
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color:  blue #emerald
 
 # SEO
 marketing:
