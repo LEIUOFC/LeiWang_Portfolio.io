@@ -4,7 +4,7 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Me
+  - name: About
     url: /
     weight: 10
   - name: Research
@@ -13,22 +13,22 @@ main:
   - name: Towards Data Science
     url: /#towards_data_science
     weight: 14
-  - name: Papers
-    url: /#papers
-    weight: 15
+  # - name: Papers
+  #   url: /#papers
+  #   weight: 15
   # - name: Talks
   #   url: /#talks
   #   weight: 12
   # - name: News
   #   url: /#news
   #   weight: 13
-  - name: Experience
-    url: experience/ # experience md file  name indicating a new page
-    weight: 16
-  - name: Projects
-    url: project/ # project is the folder  indicating a new page
-    weight: 17
-  - name: Teaching
-    url: teaching/ # teaching is the folder  indicating a new page
-    weight: 18
+  # - name: Experience
+  #   url: experience/ # experience md file  name indicating a new page
+  #   weight: 16
+  # - name: Projects
+  #   url: project/ # project is the folder  indicating a new page
+  #   weight: 17
+  # - name: Teaching
+  #   url: teaching/ # teaching is the folder  indicating a new page
+  #   weight: 18
   
