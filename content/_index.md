@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     id: towards_data_science
     content:
@@ -107,7 +107,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Recent & Upcoming Talks
+      title: Projects
       filters:
         folders:
           - post
