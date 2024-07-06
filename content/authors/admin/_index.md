@@ -41,9 +41,9 @@ profiles:
   #   icon_pack: ai
   #   link: uploads/cv.pdf
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Application of AI/ML
+  - Computational-aid Material Design
+  - Computational Chemisty
 
 education:
   - area: PhD Compuataional Chemistry
