@@ -53,6 +53,8 @@ sections:
     design:
       view: showcase
       columns: 1
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: false
   - block: collection
     id: towards_data_science
     content:
