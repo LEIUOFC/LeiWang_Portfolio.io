@@ -20,7 +20,7 @@ sections:
       button:
         text: Download Résumé
         url: uploads/resume.pdf
-      button:
+        
         text: Download CV
         url: uploads/cv.pdf
 
