@@ -30,7 +30,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: wavy-black-white-background.jpg
+          filename: dian7.jpg
           filters:
             brightness: 1.0
           size: cover
