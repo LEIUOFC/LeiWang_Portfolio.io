@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'about/#contact'
   - icon: brands/github
     url: https://github.com/LEIUOFC
   - icon: brands/linkedin
