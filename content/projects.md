@@ -3,6 +3,12 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
 design:
   # Section spacing
   spacing: '5rem'
