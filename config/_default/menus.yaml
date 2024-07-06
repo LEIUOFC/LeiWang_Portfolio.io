@@ -14,7 +14,7 @@ main:
     url: /#research
     weight: 13
   - name: Towards Data Science
-    url: /#towardDataScience
+    url: /#towards_data_science
     weight: 14
   - name: Papers
     url: /#papers
