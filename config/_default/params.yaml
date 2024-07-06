@@ -7,7 +7,7 @@
 # Appearance
 appearance:
   mode: system
-  color:  blue #emerald
+  color:  indigo #emerald
 
 # SEO
 marketing:
@@ -28,6 +28,7 @@ marketing:
     baidu: ''
 
 # Site header
+#You can choose from the following options to customise the site header containing the navigation bar
 header:
   navbar:
     enable: true
@@ -36,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Lei Wang"
 
 # Site footer
 footer:
