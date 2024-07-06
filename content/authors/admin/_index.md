@@ -38,14 +38,16 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/LEIUOFC
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/leiwang2023
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
-
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv.pdf
 interests:
   - Artificial Intelligence
   - Computational Linguistics
