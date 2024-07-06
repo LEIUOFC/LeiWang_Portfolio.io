@@ -11,13 +11,16 @@ design:
 sections:
   - block: resume-biography-3
     content:
+      # The user's folder name in `content/authors/`
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Résumé
         url: uploads/resume.pdf
+
     design:
       css_class: dark
       background:
@@ -83,7 +86,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: publication
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
