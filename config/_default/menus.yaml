@@ -26,5 +26,5 @@ main:
     url: teaching/
     weight: 40
   - name: Research
-    url: #research/
+    url: #papers/
     weight: 50
