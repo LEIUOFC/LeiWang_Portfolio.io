@@ -35,7 +35,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
 
   - block: collection
     id: papers
@@ -50,6 +50,9 @@ sections:
       columns: 1
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ['20px', '0', '20px', '0']
 
   - block: collection
     id: publications
