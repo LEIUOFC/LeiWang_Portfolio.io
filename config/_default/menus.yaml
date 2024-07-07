@@ -6,29 +6,12 @@
 main:
   - name: About
     url: /
-    weight: 30
+    weight: 40
   - name: Research
     url: /#papers
-    weight: 40
+    weight: 50
   - name: Towards Data Science
     url: /#towards_data_science
-    weight: 50
-  # - name: Papers
-  #   url: /#papers
-  #   weight: 15
-  # - name: Talks
-  #   url: /#talks
-  #   weight: 12
-  # - name: News
-  #   url: /#news
-  #   weight: 13
-  # - name: Experience
-  #   url: experience/ # experience md file  name indicating a new page
-  #   weight: 16
-  # - name: Projects
-  #   url: project/ # project is the folder  indicating a new page
-  #   weight: 17
-  # - name: Teaching
-  #   url: teaching/ # teaching is the folder  indicating a new page
-  #   weight: 18
+    weight: 60
+  
   
