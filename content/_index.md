@@ -29,7 +29,6 @@ sections:
       background:
         color: black
         image:
-        image:
             caption: 'Image credit: [**Unsplash**](http://www.freepik.com)'
             focal_point: ''
             preview_only: false
