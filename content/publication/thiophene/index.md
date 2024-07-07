@@ -64,6 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
+# [] make not shown in reserach
 projects: []
 
 # Slides (optional).
