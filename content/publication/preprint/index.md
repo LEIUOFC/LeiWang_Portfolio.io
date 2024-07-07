@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Application of Markov State Models"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-07-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +17,18 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Previous studies have indicated that the hydrate nucleation and growth process may occur
+in stages where the solution phase does not directly transition into thermodynamically favored
+cage structures with crystalline patterns. Instead, the molecular-level transitions appear to
+involve the successive appearance of order in which irregular and defective cages arise initially
+and then more regular cage structures (e.g., the building-block cages of crystalline hydrates)
+appear.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  Markov State Models are a mathematical model for describing stochastic processes, are now applied to investigate the mechanisms of hydrate nucleation and the nature of cage diversity and evolution in stages.
 
 tags:
-- Large Language Models
+- reserach project
 
 featured: true
 
@@ -42,9 +47,9 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  # focal_point: ""
+  # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,7 +67,7 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work is driven by the results in my [previous paper](/publication/conference-paper/) on Gas Hydrate mechanisms.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
