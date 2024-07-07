@@ -23,8 +23,9 @@ abstract: Previous studies have indicated that the hydrate nucleation and growth
 summary:  Markov State Models are a mathematical model for describing stochastic processes, are now applied to investigate the mechanisms of hydrate nucleation and the nature of cage diversity and evolution in stages.
 
 tags:
-- Acedmice Research
+- Acdemic research
 - Hydrate Formation Mechanism
+- Statistics Modelling
 
 # Display this page in the Featured widget?
 featured: true

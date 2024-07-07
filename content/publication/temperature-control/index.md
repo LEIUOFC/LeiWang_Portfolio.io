@@ -1,5 +1,5 @@
 ---
-title: 'conference-papercopys'
+title: 'temperature control algorithm may affect nucleation behavior differently'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-07-06T00:00:00Z'
+date: '2023-11-10T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,13 +27,13 @@ publication_types: ['article-journal']
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
-abstract: The molecular-level details of the formation of mixed gas hydrates remain elusive despite their significance for a variety of scientific and industrial applications. In this study, extensive molecular simulations have been performed to examine the behavior of CH4/H2S mixed hydrate nucleation utilizing two different simulation setups varying in compositions and temperatures. The observed behavior exhibits similar phenomenology across the various systems once differences in nucleation rates and guest uptake are accounted for. We find that CH$_4$ is always enriched in the hydrate phase while the aqueous phase is enriched in H$_2$S. Even with H2S as a minor component (i.e., 10% mole fraction), the system can mirror the overall nucleation kinetics of pure H$_2$S hydrate systems with CH$_4$-dominant nuclei. Through analyses of cages and their transitions, nonstandard cages, particularly those with 12 faces (e.g., 5$^{10}$6$^2$), have been found to be key intermediate cage types in the early stage of nucleation. Additionally, we present previously unreported cage types comprising heptagonal faces (e.g., 596271) as having a significant role in the early-stage gas hydrate structural transitions.
+abstract: Molecular dynamics simulations have been widely used in exploring the nucleation behavior of many systems, including gas hydrates. Gas hydrates are ice-like solids in which gas molecules are trapped in water cages. During hydrate formation, a considerable amount of heat is released, and previous work has reported that the choice of temperature control scheme may affect the behavior of hydrate formation. The origins of this effect have remained an open question. To address this question, extensive NVE simulations and thermostatted (NPT and NVT) simulations with different temperature coupling strengths have been performed and compared for systems where a water nanodroplet is immersed in a H$_2$S  liquid. Detailed analysis of the hydrate structures and their mechanisms of formation has been carried out. Slower nucleation rates in NVE simulations in comparison to NPT simulations have been observed in agreement with previous studies. Probability distributions for various temperature measures along with their spatial distributions have been examined. Interestingly, a comparison of these temperature distributions reveals a small yet noticeable difference in the widths of the distributions for water. The somewhat reduced fluctuations in the temperature for the water species in the NVE simulations appear to be responsible for reducing the hydrate nucleation rate. We further conjecture that the NVE-impeded nucleation rate may be the result of the finite size of the surroundings (here the liquid H$_2$S portion of the system). Additionally, a local spatial temperature gradient arising from the heat released during hydrate formation could not be detected.
 
 # Summary. An optional shortened abstract.
-summary: Do you know how the Gas hydrae formation at the molecular level? Let check it out.
-
+summary: In molecular simulations, we don't treat temperature control as granted. Instead, temperature is an emergent property arising from the kinetic energy of the molecules in the system.  Check it out💡, when we control the temperature with different algorithms, it affects observed nucleation differently. 
 tags:
-  - Large Language Models
+  - Acdemic research
+  - Hydrate Formation Mechanism
 
 # Display this page in the Featured widget?
 featured: true

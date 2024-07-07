@@ -32,7 +32,7 @@ abstract: The molecular-level details of the formation of mixed gas hydrates rem
 summary: Do you know how the Gas hydrae formation at the molecular level? Let check it out.
 
 tags:
-  - Acedimeic Research
+  - Acdemic research
 
 # Display this page in the Featured widget?
 featured: true
