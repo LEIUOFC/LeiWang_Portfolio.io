@@ -2,10 +2,11 @@
 title: "An example journal article"
 authors:
 - admin
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+# Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: '2024-07-06T00:00:00Z'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
