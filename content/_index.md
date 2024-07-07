@@ -46,10 +46,10 @@ sections:
           - publication
         featured_only: true
     design:
-      view: showcase
+      view: article-grid
       columns: 1
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      # flip_alt_rows: true
       
 
   - block: collection
