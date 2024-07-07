@@ -2,11 +2,11 @@
 title: Publications
 cms_exclude: true
 # no difference
-# cascade:
-#   - _target:
-#       kind: page
-#     params:
-#       show_breadcrumb: true
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 # View.
 view: citation
 
