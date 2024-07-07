@@ -62,7 +62,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
    - block: collection
     id: case_study
     content:
@@ -71,7 +70,7 @@ sections:
       filters:
         folders:
           - project
-        exclude_featured: false
+        # exclude_featured: false
     design:
       view: article-grid
       fill_image: false
