@@ -68,7 +68,7 @@ sections:
     id: case_study
     content:
       title: Case studies
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy making things. Here are a selection of data science projects that I have worked on over the years.
       filters:
         folders:
           - project
