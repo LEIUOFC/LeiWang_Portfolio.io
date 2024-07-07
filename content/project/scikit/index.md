@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
+title: AI/ML certification
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+# external_link: https://github.com/scikit-learn/scikit-learn
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Machine Learning
+  - Deep Learning
 ---
-
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+To further develop me experise in machine leanring and deep learning. I have enrolled in online coursees in [machine learning](https://coursera.org/share/d689a33ebde9ddfb4dce75334c751462) and [deep learning](https://coursera.org/share/71f8f1aa4bc1ef35558a91f233c5bdec).These case studies covers  (un)supervised learning, Neural Networks, Random Forests, Recommenders, Rinforcement learning, Structuring Machine Learning Projects, Convolutional Neural Networks, Hyperparameter Tuning, Regularzation and Optimizations, and Sequence Models.
 
 <!--more-->
