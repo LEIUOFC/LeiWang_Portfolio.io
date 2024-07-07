@@ -7,10 +7,6 @@ title: 'Mixed Hydrate Nucleation: Molecular Mechanisms and Cage Structures'
 authors:
   - admin
   # - Robert Ford
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0', '20px', '0']
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
