@@ -11,7 +11,10 @@ main:
     url: /#papers
     weight: 50
   - name: Towards Data Science
-    url: /#towards_data_science
+    url: /#tcase_study
     weight: 60
+  - name: Publications
+    url: /#publications
+    weight: 70
   
   
