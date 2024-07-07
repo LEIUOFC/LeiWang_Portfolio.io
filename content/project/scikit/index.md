@@ -1,6 +1,6 @@
 ---
 title: AI/ML certification
-date: 2023-10-26
+date: 2024-06-26
 # external_link: https://github.com/scikit-learn/scikit-learn
 tags:
   - Machine Learning
