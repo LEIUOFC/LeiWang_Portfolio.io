@@ -56,7 +56,7 @@ education:
       text: 'Read Thesis'
       url: 'https://ucalgary.primo.exlibrisgroup.com/permalink/01UCALG_INST/46l39d/alma991030182508904336'
   - area: MEng Chemical Engineering 
-    institution: Chemical Engineering, China University of Petroleum, Beijing, China
+    institution: China University of Petroleum, Beijing, China
     # date_start: 2016-01-01
     # date_end: 2020-12-31
     summary: |
@@ -67,7 +67,7 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Chemical Engineering 
-    institution: Chemical Engineering, China University of Petroleum, Beijing, China
+    institution: China University of Petroleum, Beijing, China
     # date_start: 2016-01-01
     # date_end: 2020-12-31
     summary: |
