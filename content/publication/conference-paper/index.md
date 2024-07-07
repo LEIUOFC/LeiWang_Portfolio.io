@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Mixed Hydrate Nucleation: Molecular Mechanisms and Cage Structures'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -30,7 +30,7 @@ publication_short: ''
 abstract: The molecular-level details of the formation of mixed gas hydrates remain elusive despite their significance for a variety of scientific and industrial applications. In this study, extensive molecular simulations have been performed to examine the behavior of CH4/H2S mixed hydrate nucleation utilizing two different simulation setups varying in compositions and temperatures. The observed behavior exhibits similar phenomenology across the various systems once differences in nucleation rates and guest uptake are accounted for. We find that CH$_4$ is always enriched in the hydrate phase while the aqueous phase is enriched in H$_2$S. Even with H2S as a minor component (i.e., 10% mole fraction), the system can mirror the overall nucleation kinetics of pure H$_2$S hydrate systems with CH$_4$-dominant nuclei. Through analyses of cages and their transitions, nonstandard cages, particularly those with 12 faces (e.g., 5$^{10}$6$^2$), have been found to be key intermediate cage types in the early stage of nucleation. Additionally, we present previously unreported cage types comprising heptagonal faces (e.g., 596271) as having a significant role in the early-stage gas hydrate structural transitions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Do you know how the Gas hydrae formation at the molecular level? Let check it out.
 
 tags:
   - Large Language Models
@@ -65,7 +65,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - internal-project
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -25,11 +25,12 @@ summary:  Markov State Models are a mathematical model for describing stochastic
 tags:
 - Large Language Models
 
+# Display this page in the Featured widget?
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
@@ -42,9 +43,9 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  # focal_point: ""
-  # preview_only: false
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
