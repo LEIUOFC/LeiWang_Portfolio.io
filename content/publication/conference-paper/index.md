@@ -6,29 +6,29 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  # - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-07-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+publication: ''
+publication_short: ''
+abstract: The molecular-level details of the formation of mixed gas hydrates
+remain elusive despite their significance for a variety of scientific and industrial applications. In this study, extensive molecular simulations have been performed to examine the behavior of CH4/H2S mixed hydrate nucleation utilizing two different simulation setups varying in compositions and temperatures. The observed behavior exhibits similar phenomenology across the various systems once differences in nucleation rates and guest uptake are accounted for. We find that CH$_4$ is always enriched in the hydrate phase while the aqueous phase is enriched in H$_2$S. Even with H2S as a minor component (i.e., 10% mole fraction), the system can mirror the overall nucleation kinetics of pure H$_2$S hydrate systems with CH4-dominant nuclei. Through analyses of cages and their transitions, nonstandard cages, particularly those with 12 faces (e.g., 5$^{10}$6$^2$), have been found to be key intermediate cage types in the early stage of nucleation. Additionally, we present previously unreported cage types comprising heptagonal faces (e.g., 596271) as having a significant role in the early-stage gas hydrate structural transitions.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
