@@ -13,8 +13,8 @@ main:
   - name: Towards Data Science
     url: /#case_study
     weight: 60
-  - name: Publications
-    url: /#publications
-    weight: 70
+  # - name: Publications
+  #   url: /#publications
+  #   weight: 70
   
   
