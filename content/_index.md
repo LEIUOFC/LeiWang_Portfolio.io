@@ -64,10 +64,10 @@ sections:
       view: citation
 
    - block: collection
-    id: towards_data_science
+    id: case_study
     content:
       title: Case studies
-      text: ""
+      ttext: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project
