@@ -41,7 +41,6 @@ sections:
     id: papers
     content:
       title: Projects
-      title_position: "left" 
       filters:
         folders:
           - publication
@@ -63,4 +62,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+   - block: collection
+    id: towards_data_science
+    content:
+      title: Case studies
+      text: ""
+      filters:
+        folders:
+          - project
+        exclude_featured: false
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
