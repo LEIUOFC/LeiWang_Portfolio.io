@@ -41,6 +41,7 @@ sections:
     id: papers
     content:
       title: Projects
+      title_position: "left" 
       filters:
         folders:
           - publication
