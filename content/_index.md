@@ -52,7 +52,7 @@ sections:
       flip_alt_rows: true
 
   - block: collection
-    id: towards_data_science
+    id: publications
     content:
       title: Recent Publications
       text: ""
@@ -67,7 +67,7 @@ sections:
     id: case_study
     content:
       title: Case studies
-      ttext: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project
