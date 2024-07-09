@@ -86,7 +86,7 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 ![fig1](/images/fig1.png)
 *Figure xx1: This is the caption.*
 
-{{< figure src="/images/fig1.png" caption="Figure 1: This is the caption."  >}}
+{{< figure src="/images/fig1.png" alt="Example Image" title="Figure Title" caption="Figure 1: This is the caption for the image."  >}}
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
  
