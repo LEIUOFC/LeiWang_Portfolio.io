@@ -65,7 +65,7 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on Gas Hydrate mechanisms.
+This work is driven by the results in my [previous paper](/publication/mixded-gas-hydrate-nulceation/) on Gas Hydrate mechanisms.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
