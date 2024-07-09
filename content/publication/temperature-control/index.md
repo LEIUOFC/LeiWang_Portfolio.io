@@ -12,7 +12,7 @@ authors:
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
-
+# published day
 date: '2023-11-10T00:00:00Z'
 doi: ''
 
@@ -83,4 +83,6 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+[fig1](/content/publication/temperature-control/fig1.png)
+
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
