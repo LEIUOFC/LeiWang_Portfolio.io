@@ -37,7 +37,7 @@ tags:
   - Molecuar Dynamics Simulation
 # Display this page in the Featured widget?
 featured: true
-
+Categories: research
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
