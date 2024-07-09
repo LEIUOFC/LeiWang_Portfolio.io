@@ -46,8 +46,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: showcase #article-grid, citation  date-title-summary
-      columns: 2
+      view: article-grid #article-grid, citation  date-title-summary
+      columns: 1
       # For the Showcase view, do you want to flip alternate rows?
       # flip_alt_rows: true
       
