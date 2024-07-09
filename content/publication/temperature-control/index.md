@@ -1,5 +1,5 @@
 ---
-title: 'temperature control algorithm may affect nucleation behavior differently'
+title: 'Temperature control algorithm may affect nucleation behavior differently'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
