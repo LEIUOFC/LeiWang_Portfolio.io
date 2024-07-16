@@ -26,10 +26,10 @@ publication_types: ['article-journal']
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
-abstract: The molecular-level details of the formation of mixed gas hydrates remain elusive despite their significance for a variety of scientific and industrial applications. In this study, extensive molecular simulations have been performed to examine the behavior of CH4/H2S mixed hydrate nucleation utilizing two different simulation setups varying in compositions and temperatures. The observed behavior exhibits similar phenomenology across the various systems once differences in nucleation rates and guest uptake are accounted for. We find that CH$_4$ is always enriched in the hydrate phase while the aqueous phase is enriched in H$_2$S. Even with H2S as a minor component (i.e., 10% mole fraction), the system can mirror the overall nucleation kinetics of pure H$_2$S hydrate systems with CH$_4$-dominant nuclei. Through analyses of cages and their transitions, nonstandard cages, particularly those with 12 faces (e.g., 5$^{10}$6$^2$), have been found to be key intermediate cage types in the early stage of nucleation. Additionally, we present previously unreported cage types comprising heptagonal faces (e.g., 596271) as having a significant role in the early-stage gas hydrate structural transitions.
+abstract: The roles of CH$_4$/H$_2$S during the formation of mixed gas hydrates have been extensively studied through molecular simulations, providing insight into their influence on nucleation, growth, stability, and structure of hydrates.
 
 # Summary. An optional shortened abstract.
-summary: Do you know how the Gas HY formation at the molecular level? Let check it out.
+summary: Do you know how the Gas hydrate formation at the molecular level? Check it out.
 
 tags:
   - Acdemic research
@@ -49,8 +49,8 @@ url_pdf: ''
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
-url_slides: ''
-url_source: ''
+# url_slides: ''
+# url_source: ''
 # url_video: 'https://youtube.com'
 
 # Featured image
@@ -85,3 +85,7 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
+<p>   The molecular-level details of the formation of mixed gas hydrates remain elusive despite their significance for a variety of scientific and industrial applications. In this study, extensive molecular simulations have been performed to examine the behavior of CH$_4$/H$_2$S mixed hydrate nucleation utilizing two different simulation setups varying in compositions and temperatures. The observed behavior exhibits similar phenomenology across the various systems once differences in nucleation rates and guest uptake are accounted for. We find that CH$_4$ is always enriched in the hydrate phase while the aqueous phase is enriched in H$_2$S. Even with H$_2$S as a minor component (i.e., 10% mole fraction), the system can mirror the overall nucleation kinetics of pure H$_2$S hydrate systems with CH$_4$-dominant nuclei. Through analyses of cages and their transitions, nonstandard cages, particularly those with 12 faces (e.g., 5$^{10}$6$^2$), have been found to be key intermediate cage types in the early stage of nucleation. Additionally, we present previously unreported cage types comprising heptagonal faces (e.g., 5$_9$6$_2$7$_1$) as having a significant role in the early-stage gas hydrate structural transitions. 
+</p>
