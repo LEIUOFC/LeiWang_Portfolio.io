@@ -1,5 +1,5 @@
 ---
-title: AI/ML certification
+title: DL/ML certification
 date: 2024-06-26
 # external_link: https://github.com/scikit-learn/scikit-learn
 tags:
