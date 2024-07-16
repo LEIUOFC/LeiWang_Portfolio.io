@@ -17,7 +17,7 @@ publication_types: ["thesis"]
 publication: ""
 publication_short: ""
 
-abstract: Previous studies have indicated that the hydrate nucleation and growth process may occur in stages where the solution phase does not directly transition into thermodynamically favored cage structures with crystalline patterns. Instead, the molecular-level transitions appear to involve the successive appearance of order in which irregular and defective cages arise initially and then more regular cage structures (e.g., the building-block cages of crystalline hydrates) appear.
+abstract: Previous studies have indicated that the hydrate nucleation and growth process may occur in stages where the solution phase does not directly transition into thermodynamically favored cage structures with crystalline patterns. Instead, the molecular-level transitions appear to involve the successive appearance of order in which irregular and defective cages arise initially and then more regular cage structures appear.
 
 # Summary. An optional shortened abstract.
 summary:  Markov State Models are a mathematical model for describing stochastic processes, are now applied to investigate the mechanisms of hydrate nucleation and the nature of cage diversity and evolution in stages.
