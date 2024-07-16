@@ -14,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 # published day
 date: '2023-11-10T00:00:00Z'
-doi: '10.1063/5.0169669
+doi: '10.1063/5.0169669'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
