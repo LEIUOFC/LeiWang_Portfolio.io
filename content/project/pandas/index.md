@@ -1,13 +1,12 @@
 ---
-title: Pandas
+title: Kaggle Competitation Projects
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/LEIUOFC/DataSci_ShowCase
 tags:
-  - Hugo
+  - 
   - Wowchemy
   - Markdown
 ---
-
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Hands-on ML/DL projects 
 
 <!--more-->
