@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Molecular Mechanisms of Hydrate Nucleation in Water Nanodroplets"
 authors:
 - admin
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: '2024-07-06T00:00:00Z'
+date: '2023-01-04T00:00:00Z'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +21,11 @@ publication_types: ["article-journal"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:Clathrate hydrate nucleation in heterogeneous systems, such as the water-in-oil emulsions found in pipeline environments, is of considerable technological importance and scientific interest. While there has been a number of experimental
+studies investigating hydrate nucleation in water-in-oil emulsions, there have been essentially no molecular simulations to provide important molecular insights into the hydrate nucleation process. Here, we report extensive molecular dynamics simulations of gas hydrate nucleation to examine nucleation behavior in water nanodroplets immersed in a non-aqueous liquid, probing key factors impacting nucleation, including guest species, guest compositions, size of the nanodroplets, and temperature. The nucleation behavior with pure-guest (i.e., H$_2$S, C$_3$H$_8$, and CO$_2$) and  H$_2$S-containing mixtures, where the second guest species is one of C$_3$H$_8$, CH$_4$, C$_2$H$_6$, and CO$_2$, has been studied. For the various systems examined in this study, we find that H$_2$S always tends to initiate hydrate formation, with the only exception being the  H$_2$S/CO$_2$ mixture, where the relatively high solubility of H$_2$S compared to the other guest species is identified as an important factor for the current systems. Three different sizes of water nanodroplets at different temperatures are used to examine hydrate nucleation with pure-H$_2$S guest systems, where the observed mechanism of hydrate nucleation within nanodroplets exhibits behavior similar to that found in bulk counterparts. Within water nanodroplets, the hydrate nucleation process features the initial formation of amorphous solids, which can then be annealed into more recognizable hydrate-like structures. Detailed cage analyses provide insights into the impacts of temperature and the size of the water nanodroplet on the initial location and the induction time of hydrate nucleation. Our simulations improve the understanding of the molecular mechanism of clathrate hydrate nucleation in water-in-oil emulsions, thus helping the development of hydrate-related applications and exploitation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Hydrate nucleation mechanisms in confined conditions, such as water nanodroplets, differ significantly from those in bulk water. The factors, such as spatial constraints, the interaction with confining surfaces, and the altered thermodynamic and kinetic properties are discussed.
 
 tags:
   - Acdemic research
@@ -36,7 +37,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -65,13 +66,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!-- 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
