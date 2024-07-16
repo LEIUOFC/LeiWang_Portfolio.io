@@ -27,7 +27,7 @@ publication_types: ['article-journal']
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
-abstract: When we control the temperature with different algorithms, it affects observed nucleation differently
+abstract: When we control the temperature with different algorithms, it affects observed nucleation differently.
 
 # Summary. An optional shortened abstract.
 summary: In molecular simulations, we don't treat temperature control as granted. Instead, temperature is an emergent property arising from the kinetic energy of the molecules in the system.  Check it out💡.
