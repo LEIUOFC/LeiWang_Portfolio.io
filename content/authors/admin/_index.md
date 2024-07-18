@@ -177,7 +177,9 @@ skills:
 
 ## <font size='+3' >About Me</font>
 
-👋 Hi, there! I'm **Lei**, holding a Ph.D. in computational chemistry, specializing in data analystics, Molecular dynamics (MD), and quantum mechanics (QM) calculations. 
+👋 Hi, there! I'm **Lei**, holding a Ph.D. in computational chemistry with a specialization in data analytics, molecular dynamics (MD), and quantum mechanics (QM) calculations for material design and structure prediction
 
-I`m also a motivated data scentist, interested in applying machine intelligence to tackle challenging problems and improve decision-making process in industry. Lei is passionate about applying her background in chemical engineering and her data science skills to develop innovative techniques that address climate change, material design, and sustainable energy development.
+I`m also a motivated data scentist with chemical engineering background, interested in applying machine learning/artifical intelligence to tackle challenging problems and improve decision-making process in industry. 
+
+Lei is passionate about applying her background in chemical engineering and her data science skills to develop innovative techniques that address climate change, material design, and sustainable energy development.
 <!-- {style="font-size: 1.2rem; background: #16151a; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"} -->
