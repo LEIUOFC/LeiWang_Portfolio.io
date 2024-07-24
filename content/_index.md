@@ -41,8 +41,8 @@ sections:
     id: papers
     content:
       title: Projects
-      Subtitle: Gas Hydrates Nucletion Mechanisms
-      text: Gas hydrates are ice-like crystalline solids where guest molecules such as CH$_4$, H$_2$S, and CO$_2$ can be trapped in water cages. Hydrateas typically form  at low temperatures and high pressures.  Gas hydrates are not only abundant in nature but also represent a promising technology. They have been successfully applied to store, separate, and transport gases, as well as to desalinate seawater. However, the formation and reformation of clathrate hydrates in pipelines during exploitation can cause significant flow assurance issues in the oil and gas industry.
+      Subtitle: Gas Hydrates Nucleation Mechanisms
+      text: Gas hydrates are ice-like crystalline solids where guest molecules such as CH$_4$, H$_2$S, and CO$_2$ can be trapped in water cages. Hydrateas typically form  at low temperatures and high pressures. Gas hydrates are not only abundant in nature but also represent a promising technology. They have been successfully applied to store, separate, and transport gases, as well as to desalinate seawater. However, the formation and reformation of clathrate hydrates in pipelines during exploitation can cause significant flow assurance issues in the oil and gas industry.
       filters:
         folders:
           - publication
